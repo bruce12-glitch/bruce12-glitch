@@ -32,10 +32,10 @@
 
 <div align="center" style="margin: 16px 0;">
 
-[![Premium Impact](https://img.shields.io/badge/Premium%20Impact-High%20Value-5A31F4?style=for-the-badge&logo=google-chrome&logoColor=white)]
-[![Secure](https://img.shields.io/badge/Secure-Enterprise%20Ready-00A3E0?style=for-the-badge&logo=lock&logoColor=white)]
-[![Scale](https://img.shields.io/badge/Scale-Cloud%20First-28A745?style=for-the-badge&logo=aws&logoColor=white)]
-[![Design](https://img.shields.io/badge/Design-UX%20Driven-FCA311?style=for-the-badge&logo=figma&logoColor=white)]
+![Premium Impact](https://img.shields.io/badge/Premium%20Impact-High%20Value-5A31F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+![Secure](https://img.shields.io/badge/Secure-Enterprise%20Ready-00A3E0?style=for-the-badge&logo=lock&logoColor=white)
+![Scale](https://img.shields.io/badge/Scale-Cloud%20First-28A745?style=for-the-badge&logo=aws&logoColor=white)
+![Design](https://img.shields.io/badge/Design-UX%20Driven-FCA311?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -123,11 +123,17 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inbasekaran12&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10&bg_color=0d1117)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Inbasekaran12&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Inbasekaran12&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Inbasekaran12&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inbasekaran12&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/ashutosh00710/github-readme-streak-stats)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Inbasekaran12&theme=tokyonight)
+
+<!-- The streak-stats hosts (github-readme-streak-stats.herokuapp.com and streak-stats.demolab.com)
+     were returning "Failed to retrieve contributions" errors (Aug 2026), so the streak card is
+     temporarily replaced with the Profile Details card above. Re-enable it once the service recovers:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Inbasekaran12&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/DenverCoder1/github-readme-streak-stats)
+-->
 
 </div>
 
@@ -260,7 +266,9 @@ Efficient Palindrome Detection System
 
 <div align="center">
 
-![Metrics](https://metrics.lecoq.io/Inbasekaran12?template=classic&config.timezone=Asia%2FKolkata)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Inbasekaran12&theme=tokyonight&utcOffset=5.5)
+
+![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=Inbasekaran12&theme=tokyonight&hide_border=true&area=true)
 
 </div>
 
