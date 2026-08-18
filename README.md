@@ -32,10 +32,10 @@
 
 <div align="center" style="margin: 16px 0;">
 
-[![Premium Impact](https://img.shields.io/badge/Premium%20Impact-High%20Value-5A31F4?style=for-the-badge&logo=google-chrome&logoColor=white)]
-[![Secure](https://img.shields.io/badge/Secure-Enterprise%20Ready-00A3E0?style=for-the-badge&logo=lock&logoColor=white)]
-[![Scale](https://img.shields.io/badge/Scale-Cloud%20First-28A745?style=for-the-badge&logo=aws&logoColor=white)]
-[![Design](https://img.shields.io/badge/Design-UX%20Driven-FCA311?style=for-the-badge&logo=figma&logoColor=white)]
+![Premium Impact](https://img.shields.io/badge/Premium%20Impact-High%20Value-5A31F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+![Secure](https://img.shields.io/badge/Secure-Enterprise%20Ready-00A3E0?style=for-the-badge&logo=lock&logoColor=white)
+![Scale](https://img.shields.io/badge/Scale-Cloud%20First-28A745?style=for-the-badge&logo=aws&logoColor=white)
+![Design](https://img.shields.io/badge/Design-UX%20Driven-FCA311?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -267,6 +267,8 @@ Efficient Palindrome Detection System
 <div align="center">
 
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Inbasekaran12&theme=tokyonight&utcOffset=5.5)
+
+![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=Inbasekaran12&theme=tokyonight&hide_border=true&area=true)
 
 </div>
 
