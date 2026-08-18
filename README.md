@@ -29,6 +29,10 @@
 > I solve real-world challenges in healthcare, blockchain, and enterprise systems with practical AI and scalable engineering.
 >
 > `AI · Cloud-native Systems · Secure Architecture · Intelligent Automation · Product-led Delivery`
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57192512/134780110-04530adc-28a0-4dc0-a68d-572ca03195a3.gif" width="400px">
+</p>
+
 
 <div align="center" style="margin: 16px 0;">
 
