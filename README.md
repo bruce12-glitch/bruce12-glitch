@@ -8,7 +8,7 @@
 
 <p align="center" style="margin:22px 0 8px;">
   <a href="mailto:in5904@srmist.edu.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" /></a>
-  <a href="https://linkedin.com/in/inbasekaran"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="https://www.linkedin.com/in/inbasekaran-s-106a90383"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
   <a href="https://github.com/Inbasekaran12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /></a>
   <a href="https://twitter.com/Inbasekaran12"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" /></a>
 </p>
@@ -109,11 +109,26 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
-### Cloud
+### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<!-- Streak card reads the live GitHub contribution calendar for bruce12-glitch,
+     so the current streak stays accurate automatically. -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bruce12-glitch&theme=tokyonight&hide_border=true&background=0D1117&ring=5A31F4&fire=FF6F00&currStreakLabel=58A6FF&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -123,140 +138,20 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Inbasekaran12&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bruce12-glitch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=5A31F4&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruce12-glitch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" alt="Top Languages" />
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Inbasekaran12&theme=tokyonight)
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Inbasekaran12&theme=tokyonight)
-
-<!-- The streak-stats hosts (github-readme-streak-stats.herokuapp.com and streak-stats.demolab.com)
-     were returning "Failed to retrieve contributions" errors (Aug 2026), so the streak card is
-     temporarily replaced with the Profile Details card above. Re-enable it once the service recovers:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Inbasekaran12&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/DenverCoder1/github-readme-streak-stats)
--->
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bruce12-glitch&theme=tokyonight)
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Achievements
 
 <div align="center">
 
-### 🔗 [VENDOR-CHAIN---UROP](https://github.com/Inbasekaran12/VENDOR-CHAIN---UROP)
-
-**Hyperledger Fabric-based Supply Chain Security Framework**
-
-```
-VendorChain: Enterprise-grade blockchain solution for vendor partnerships
-├── Cryptographic Signing & Verification
-├── Smart Contract Compliance Automation
-├── Supply Chain Transparency
-├── SBOMs Management
-└── Multi-party Consensus
-```
-
-**Tech:** Hyperledger Fabric | Chaincode | Docker | REST APIs
-
----
-
-### 💊 [MEDITRACK](https://github.com/Inbasekaran12/MEDITRACK)
-
-**Intelligent Healthcare Management System**
-
-```
-Medicine Management Platform for Smart Healthcare
-├── Smart Medicine Reminders (AI-powered)
-├── Secure Authentication System
-├── Real-time Dashboard
-├── Expiry & Dosage Alerts
-├── Multi-user Support
-└── Data Analytics
-```
-
-**Tech:** Java | Spring Boot | HTML/CSS/JS | MySQL | Bootstrap
-
----
-
-### 🚂 [TrainConsistManagementApp](https://github.com/Inbasekaran12/TrainConsistManagementApp)
-
-**Railway Management System**
-
-```
-Enterprise Train Management Application
-├── Locomotive Scheduling
-├── Coach Configuration
-├── Route Optimization
-├── Maintenance Tracking
-└── Reporting Dashboard
-```
-
-**Tech:** Java | OOP Design | MySQL | JDBC
-
----
-
-### 📏 [Quantity_Measurement_App](https://github.com/Inbasekaran12/Quantity_Measurement_App)
-
-**Unit Measurement & Conversion Tool**
-
-```
-Advanced Quantity Measurement System
-├── Multiple Unit Types
-├── Precision Comparison
-├── Unit Conversion
-├── OOP Architecture
-└── Comprehensive Testing
-```
-
-**Tech:** Java | JUnit | Design Patterns
-
----
-
-### 🏨 [Hotel_Booking_App](https://github.com/Inbasekaran12/Hotel_Booking_App)
-
-**Hotel Reservation System**
-
-```
-Full-Stack Hotel Booking Platform
-├── Room Availability Management
-├── Booking Engine
-├── Payment Integration
-├── Guest Management
-└── Admin Dashboard
-```
-
-**Tech:** Java | Spring Boot | MySQL
-
----
-
-### 🏥 [PalindromeCheckerApp](https://github.com/Inbasekaran12/PalindromeCheckerApp)
-
-**String Validation Utility**
-
-```
-Efficient Palindrome Detection System
-├── Multiple Algorithm Implementations
-├── Performance Optimization
-├── Edge Case Handling
-└── Comprehensive Test Coverage
-```
-
-**Tech:** Java | Algorithms | Testing
-
-</div>
-
----
-
-## 🎯 What I'm Currently Working On
-
-<div align="center">
-
-- 🔍 **Building scalable microservices** with Spring Boot & Docker
-- 🏥 **Healthcare application development** with AI/ML integration
-- ⛓️ **Blockchain solutions** for supply chain & healthcare sectors
-- 🤖 **AI/ML models** for predictive analytics & NLP
-- ☁️ **Cloud-native applications** on AWS & Azure
-- 🔐 **Security-first development** with OAuth & JWT
+![Trophies](https://github-profile-trophy.vercel.app/?username=bruce12-glitch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)
 
 </div>
 
@@ -266,9 +161,9 @@ Efficient Palindrome Detection System
 
 <div align="center">
 
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Inbasekaran12&theme=tokyonight&utcOffset=5.5)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bruce12-glitch&theme=tokyonight&utcOffset=5.5)
 
-![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=Inbasekaran12&theme=tokyonight&hide_border=true&area=true)
+![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=bruce12-glitch&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=5A31F4&point=FFFFFF&hide_border=true&area=true)
 
 </div>
 
@@ -287,8 +182,6 @@ Efficient Palindrome Detection System
 </div>
 
 ---
-
-## 🌐 Let's Connect & Collaborate!
 
 <div align="center">
 
@@ -312,7 +205,7 @@ Efficient Palindrome Detection System
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Inbasekaran12&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=bruce12-glitch&label=Profile%20Views&color=0e75b6&style=flat)
 
 ⭐ **If you find my work interesting, please consider starring some of my repositories!** ⭐
 
