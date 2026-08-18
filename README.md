@@ -147,14 +147,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=bruce12-glitch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)
-
-</div>
-
 ---
 
 ## 📈 Performance Metrics
