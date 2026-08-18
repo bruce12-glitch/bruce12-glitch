@@ -201,20 +201,3 @@
 
 ---
 
-## 🎊 Profile Highlights
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=bruce12-glitch&label=Profile%20Views&color=0e75b6&style=flat)
-
-⭐ **If you find my work interesting, please consider starring some of my repositories!** ⭐
-
----
-
-<div align="center">
-
-**Made with ❤️ by INBASEKARAN S**
-
-_Last Updated: 2026_ | _Active Developer_ | _Always Learning_ 🚀
-
-</div>
