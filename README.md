@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif" alt="MasterHead" width="100%" />
+</p>
+
+
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Garamond&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&lines=👋+HI+THERE+!+I'M+INBASEKARAN;AI+DEVELOPER+%7C+AI+ENGINEER+%7C+AI+GENERALIST+%7C+FULL+STACK+DEVELOPER" alt="Hi there! I'm INBASEKARAN" />
 </p>
 
