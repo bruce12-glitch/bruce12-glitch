@@ -5,7 +5,7 @@
 
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Garamond&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&lines=👋+HI+THERE+!+I'M+INBASEKARAN;AI+DEVELOPER+%7C+AI+ENGINEER+%7C+AI+GENERALIST+%7C+FULL+STACK+DEVELOPER" alt="Hi there! I'm INBASEKARAN" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Garamond&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&lines=👋+HI/>
 </p>
 
 <p align="center" style="margin-top:16px;color:#8b949e;max-width:700px;line-height:1.7;">
