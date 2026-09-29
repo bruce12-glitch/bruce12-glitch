@@ -28,35 +28,6 @@
 
 ---
 
-## 🎯 About Me
-
-> I build premium AI products and full-stack solutions with modern cloud architecture, strong security, and human-centered design.
->
-> I solve real-world challenges in healthcare, blockchain, and enterprise systems with practical AI and scalable engineering.
->
-> `AI · Cloud-native Systems · Secure Architecture · Intelligent Automation · Product-led Delivery`
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/57192512/134780110-04530adc-28a0-4dc0-a68d-572ca03195a3.gif" width="400px">
-</p>
-
-
-<div align="center" style="margin: 16px 0;">
-
-![Premium Impact](https://img.shields.io/badge/Premium%20Impact-High%20Value-5A31F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-![Secure](https://img.shields.io/badge/Secure-Enterprise%20Ready-00A3E0?style=for-the-badge&logo=lock&logoColor=white)
-![Scale](https://img.shields.io/badge/Scale-Cloud%20First-28A745?style=for-the-badge&logo=aws&logoColor=white)
-![Design](https://img.shields.io/badge/Design-UX%20Driven-FCA311?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
----
-
-
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
